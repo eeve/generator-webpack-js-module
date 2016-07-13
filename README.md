@@ -28,9 +28,9 @@ yo webpack-js-module
 MIT © [eeve]()
 
 
-[npm-image]: https://badge.fury.io/js/generator-js-module.svg
-[npm-url]: https://npmjs.org/package/generator-js-module
-[travis-image]: https://travis-ci.org/eeve/generator-js-module.svg?branch=master
-[travis-url]: https://travis-ci.org/eeve/generator-js-module
-[daviddm-image]: https://david-dm.org/eeve/generator-js-module.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/eeve/generator-js-module
+[npm-image]: https://badge.fury.io/js/generator-webpack-js-module.svg
+[npm-url]: https://npmjs.org/package/generator-webpack-js-module
+[travis-image]: https://travis-ci.org/eeve/generator-webpack-js-module.svg?branch=master
+[travis-url]: https://travis-ci.org/eeve/generator-webpack-js-module
+[daviddm-image]: https://david-dm.org/eeve/generator-webpack-js-module.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/eeve/generator-webpack-js-module
