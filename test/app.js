@@ -4,6 +4,7 @@ var assert = require('yeoman-assert');
 var helpers = require('yeoman-test');
 
 describe('generator-js-module:app', function () {
+  this.timeout(5000);
   before(function () {
     return helpers.run(path.join(__dirname, '../generators/app'))
       .withArguments(['mocha test'])

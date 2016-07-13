@@ -1,4 +1,4 @@
-var moduleName = function() {
+var moduleName = function () {
 
 };
 
