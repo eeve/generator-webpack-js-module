@@ -1,1 +1,5 @@
-console.log('hello world');
+var moduleName = function() {
+
+};
+
+module.exports = moduleName;
